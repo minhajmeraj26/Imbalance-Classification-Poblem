@@ -6,8 +6,12 @@ Dataset: https://www.kaggle.com/datasets/kartik2112/fraud-detection
 
 Algorithm Used:
 
-Simple Logistic regression
-Logistic Regression with Undersampling
-Simple Decision Tree
-Decision Tree with Undersampling
-Decision Tree with Inverse Random Under Sampling (IRUS)
+- Simple Logistic regression
+
+- Logistic Regression with Undersampling
+
+- Simple Decision Tree
+
+- Decision Tree with Undersampling
+
+- Decision Tree with Inverse Random Under Sampling (IRUS)
